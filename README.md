@@ -4,7 +4,7 @@ I'm Tahlia, a Software developer passionate about Full Stack Development, Machin
 
 ## 🔧 Technologies & Tools
 - Languages: Python, JavaScript, C#, Java, SQL, Dart, CSS, HTML
-- Tools: Git, Docker, VS Code, VS, PyCharm, Processing, 
+- Tools: Git, Docker, VS Code, VS, PyCharm, Processing, Azure, SQL Server, Oracle
 
 ## 🌱 I’m currently learning
 - Machine Learning
