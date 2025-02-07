@@ -12,7 +12,7 @@ I'm Tahlia, a Software developer passionate about Full Stack Development, Machin
 - 
 
 ## 📫 How to reach me
-- Email: your.email@example.com
+- Email: tahlia.houston27@gmail.com
 
 ## 🎮 Outside of work
 - I stream on Twitch 
