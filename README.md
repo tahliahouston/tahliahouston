@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**tahliahouston/tahliahouston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tahlia, a Software developer passionate about Full Stack Development, Machine Learning adn Data Science. I am also currently studying towards my Honour's in Computing at UNISA.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- Languages: Python, JavaScript, C#, Java, SQL, Dart, CSS, HTML
+- Tools: Git, Docker, VS Code, VS, PyCharm, Processing, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+- Machine Learning
+- Web Development
+- 
+
+## 📫 How to reach me
+- Email: your.email@example.com
+
+## 🎮 Outside of work
+- I stream on Twitch 
+- I enjoy learning about science and space
+- I enjoy oding art
+- I play a lot of video games
