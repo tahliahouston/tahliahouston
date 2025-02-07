@@ -16,5 +16,5 @@ I'm Tahlia, a Software developer passionate about Full Stack Development, Machin
 ## 🎮 Outside of work
 - I stream on Twitch 
 - I enjoy learning about science and space
-- I enjoy oding art
+- I enjoy coding for fun
 - I play a lot of video games
