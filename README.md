@@ -1,4 +1,4 @@
-# Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hello there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 I'm Tahlia, a Software developer passionate about Full Stack Development, Machine Learning and Data Science. I am also currently studying towards my Honour's in Computing at UNISA.
 
