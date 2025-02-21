@@ -8,7 +8,10 @@ I'm Tahlia, a Software developer passionate about Full Stack Development, Machin
 
 ## 🌱 I’m currently learning
 - Machine Learning
-- Web Development
+- Three.js
+- Cyber Security
+- Unity game making
+- Data Science with Python
 
 ## 📫 How to reach me
 - Email: tahlia.houston27@gmail.com
